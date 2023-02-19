@@ -10,7 +10,7 @@ This Webpage is pretty easy to manage, you can add your notes in the big notes b
 
 ## Located 
 
-This application can be used at ######## link 
+This application can be used at https://do-something-app-johnnychengsf.herokuapp.com link 
 
 ## Credits
 
