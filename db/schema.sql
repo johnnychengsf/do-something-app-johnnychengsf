@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS do_something_db;

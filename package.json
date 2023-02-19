@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "connect-session-sequelize": "^7.0.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "express-session": "^1.17.1",
+    "handlebars": "^4.7.7",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.28.0"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "description": "do something",
+  "main": "server.js",
+  "engines": {
+    "node": "16.19.1",
+    "npm": "8.19.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Cheung Yee, Cheng",
+  "license": "ISC",
+  "devDependencies": {}
+}
